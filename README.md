@@ -1,4 +1,2 @@
-# some problems for working
-## I 'm interning in byteDance. 
-## However i always meet some problems can 't solve it.
-## So i choose to note it so as to review. 
+## 秋招复习笔记.  note from 2021.07
+逐步更新且记录...
